@@ -26,3 +26,5 @@ JavaScript: For handling API requests and dynamically updating the DOM.
 
 API: https://apilayer.net/api/validate (replace with your actual API key and endpoint).
 
+API Website link: https://numverify.com/documentation
+
